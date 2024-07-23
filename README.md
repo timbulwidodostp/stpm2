@@ -1,6 +1,8 @@
 # stpm2
 Fit flexible parametric survival models Use stpm2 (rstpm2) With (In) R Software
 
+https://www.youtube.com/watch?v=yci4jnoGiZQ
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
